@@ -1,7 +1,7 @@
-#-------------author: Helia Hashemi Aghdam-995361049-------------------.
-#-------------Project2: River Crossing Problem-------------------------.
+#-------------author: Helia Hashemi Aghdam--------------------.
+#-------------River Crossing Problem-------------------------.
 #-------------Use DLS algorithm for search-----------------------------.
-#-------------Dr.Feiazi Derakhshi--------------------------------------.
+#---------------------------------------------------.
 
 
 #import neccessary files that include major functions for serch and graphic
